@@ -30,4 +30,4 @@ Boom!!! you are done .
 3. type lex filename.l
 4. type yacc filename.y
 5. type cc lex.yy.c y.tab.h 
-6. type ./a.out# SSOS_lab_programs
+6. type ./a.out
